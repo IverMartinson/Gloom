@@ -5,4 +5,6 @@ It'll make 2 windows, the raycast view and the "game" view. Press ESC to close t
 
 Another old project that I just recently added to the GitHub
 
+You can make your own maps in the map builder (in the folder called map builder)
+
 [map builder source code](https://mynameisthe.com/f/1756323045568-raycasting_map_builder_source_code.tar.gz)
